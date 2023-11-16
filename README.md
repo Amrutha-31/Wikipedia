@@ -1,1 +1,1 @@
-# Wikipedia
+This project is a Wikipedia search website developed using HTML, CSS, and JavaScript. The goal was to create a simple and intuitive interface that allows users to search for articles on Wikipedia and view the results directly on the site.
